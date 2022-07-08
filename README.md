@@ -13,10 +13,10 @@ The name quite explains the scenario of this management system project. That is 
  He can add, delete and edit the student record
 
 How To Run??
--First, open your IDE (download and install if you don’t have any)
--Then import the project in the IDE. Then resolve the jar dependencies.
--Also, run your XAMPP/WAMP server.
--go to localhost/phpmyadmin
--Then create a database named as “pro1”.
--After that import the database file and click on “go” button in phpmyadmin.
+1->First, open your IDE (download and install if you don’t have any)
+2->Then import the project in the IDE. Then resolve the jar dependencies.
+3->Also, run your XAMPP/WAMP server.
+4->go to localhost/phpmyadmin
+5->Then create a database named as “pro1”.
+6->After that import the database file and click on “go” button in phpmyadmin.
 Now you are all set to go..
